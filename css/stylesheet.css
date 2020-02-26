@@ -1,0 +1,888 @@
+/* universal styles */
+html{
+    overflow-x: hidden;
+    padding: 0px;
+    margin:0px;
+}
+body{
+    overflow: hidden;
+    cursor: pointer;
+}
+.kanduaLogo{
+    width: 7vw;
+    height:5vh;
+    margin-left: 5px;
+}
+.menuBar{
+    position: relative;
+    left: 125px;
+    background-color: black;
+    width: 35px;
+    height: 2px;
+    margin:10px;
+}
+.firstH2{
+    margin-top: -10px;
+    font-family: 'Poppins';
+    font-size: 35px;
+    margin-left: 30px;
+}
+.firstPara{
+    margin-top: 5px;
+    font-family: 'Poppins';
+    font-size: 19px;
+    margin-left: 10px;
+}
+#KanduaText{
+    color:#4c95fc;
+    font-family: 'Poppins';
+    font-size: 40px;
+    line-height: 54px;
+    position: relative;
+    right: -7px;
+}
+#kandua{
+    text-decoration: underline;
+}
+.aboutText{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px 0px 0px;
+    line-height: 30px;
+    word-spacing: 10px; 
+    position: relative;
+    right: -7px;
+}
+.blueBar{
+    background-color:#4c95fc;
+    width: 100vw;
+    height: 65vh;
+}
+.firstH2{
+    position: relative;
+    top:40px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 33,6px;
+    text-align: center;
+}
+.firstPara{
+    position: relative;
+    top:35px;
+    left: 10px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 16px;
+    text-align: center;
+}
+.SecondH2{
+    position: relative;
+    top:10px;
+    left: 10px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 33,6px;
+    text-align: center;
+}
+.SecondPara{
+    position: relative;
+    top:15px;
+    left: 10px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 33,6px;
+    text-align: center;
+
+}
+.ThirdH2{
+    position: relative;
+    top:-10px;
+    left: 10px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 33,6px;
+    text-align: center;
+}
+.ThirdPara{
+    position: relative;
+    top:-10px;
+    left: 10px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 33,6px;
+    text-align: center;
+}
+
+
+#customerH3{
+    color: #4c95fc;
+    font-family: 'Poppins';
+    font-size: 28.8px;
+    font-weight: 600;
+}
+.card{
+    border:0;
+}
+.CustomersSayImage{
+    margin-top: 20px;
+}
+.customersTestimonialPara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    padding: -20px;
+    line-height: 20px;
+    margin: 20px 0px 10px;
+    position: relative;
+    right: 5px;
+    line-height: 27px;
+}
+.Names{
+    font-weight: 350;
+    text-align: right;
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+}
+p{
+    font-weight: 355;  
+}
+/* this is the "Get a quote" button  */
+.quoteButton{
+    position: relative;
+    background-color:#4c95fc;
+    left: 100px;
+    border: 0;
+    width: 45vw;
+    height: 10vh;
+
+}
+.buttonHeading{
+    position: relative;
+    transform: translateY(0.5vh);
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-weight: 450;
+    font-size: 16px;
+}
+h6{
+    font-family: 'Poppins';
+    font-size: 19.2px;
+}
+.ProsSayImage{
+    margin-top: 20px;
+}
+.card-img{
+    border-radius: 0;
+}
+.ProsTestimonialPara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    padding: -20px;
+    line-height: 20px;
+    margin: 20px 0px 10px;
+    position: relative;
+    right: 5px;
+    line-height: 27px;
+}
+#Pronames{
+    text-decoration: underline;
+}
+.ProsButton{
+    position: relative;
+    background-color:#4c95fc;
+    left: 96px;
+    border: 0;
+    width: 47vw;
+    height: 10vh;
+}
+.PartnersTestimonialPara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    padding: -20px;
+    line-height: 20px;
+    margin: 20px 0px 10px;
+    position: relative;
+    right: 5px;
+    line-height: 27px;
+}
+.PartnerButton{
+    position: relative;
+    background-color:#4c95fc;
+    left: 43px;
+    border: 0;
+    width: 67vw;
+    height: 10vh;
+}
+.TeamsTestimonialPara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    padding: -20px;
+    line-height: 20px;
+    margin: 20px 0px 10px;
+    position: relative;
+    right: 5px;
+    line-height: 27px;
+}
+.OpeningsButton{
+    position: relative;
+    background-color:#4c95fc;
+    left: 50px;
+    border: 0;
+    width: 60vw;
+    height: 10vh;
+}
+#KanduaFoundersText{
+    color:#4c95fc;
+    font-family: 'Poppins';
+    font-size: 28.8px;
+}
+.founder{
+    margin-left: 100px;
+    width: 40vw;
+}
+#Arjun{
+    color:#4c95fc;
+    font-family: 'Poppins';
+    font-size: 28.8px;
+    margin-left: 47px  ;
+}
+#linkedinRef{
+    color:#4c95fc;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    text-decoration: underline;
+}
+.blueStroke{
+    width: 100vw;
+    height: 2vh;
+}
+#KanduaPara{
+    position: relative;
+    margin-left: 50px;
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+}
+.backText{
+    color: #4c95fc;
+    font:19.2px;
+    font-family: 'Poppins';
+    text-decoration: underline;
+}
+.Founders{
+    color: #000000;
+    margin-left: 20px;
+    font-family: 'Poppins';
+    font-size: 19.2px;
+    text-align: center;
+    word-spacing: -3px;
+}
+.GetinTouchButton{
+    position: relative;
+    background-color:#4c95fc;
+    right: -65px;
+    border: 0;
+    width: 52vw;
+    height: 10vh;
+}
+
+
+/* Media Queries: */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .menuBar{
+        position: relative;
+        top: 10px;
+        left: 320px;
+        background-color: black;
+        width: 35px;
+        height: 2px;
+        margin:10px;
+    }
+    .blueBar{
+        position: relative;
+        right: 25px;
+        background-color:#4c95fc;
+        width: 100vw;
+        height: 24vh;
+    }
+    #KanduaText{
+        position: relative;
+        left: 55px;
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 3rem;
+        line-height: 1.288;
+        width: 450px;
+    }
+    .aboutText{
+        position: relative;
+        left: 55px;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        font-weight: 400; 
+        font-style: normal;
+        margin: 20px 0px 0px;
+        line-height: 30px;
+        word-spacing: 10px;
+    }
+    .MainPara{
+        position: relative;
+        width: 450px;
+        font-size: 22.4px;
+        /* font-weight: 400;  */
+    }
+    .firstH2{
+        position: relative;
+        top: 15px;
+        font-family: 'Poppins';
+        font-size: 35px;
+        margin-left: 30px;
+        display: inline;
+    }
+    .firstPara{
+        position: relative;
+        top:30px;
+        font-family: 'Poppins';
+        font-size: 19px;
+        margin-right: 2px;
+       
+    }
+    #customerH3{
+        position: relative;
+        margin-top: 52px;
+         left: 63px; 
+        color: #4c95fc;
+        font-family: 'Poppins';
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .testimonials{
+        display: inline;
+    }
+    .CustomersSayImage{
+        position: relative;
+        left: 50px;
+        margin-top: 20px;
+        width: 55px;
+        height: 55px;
+    }
+    .customersTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 16px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 100px;
+        line-height: 27px;
+    }
+    .Names{
+        position: relative;
+        right: 100px;
+        font-weight: 350;
+        text-align: right;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 16px;
+        margin-top:-15px;
+    }
+    .ProsSayImage{
+        position: relative;
+        left: 50px;
+        margin-top: 20px;
+        width: 55px;
+        height: 55px;
+    }
+    .ProsTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 16px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 100px;
+        line-height: 27px;
+    }
+    .PartnersLogo{
+        position: relative;
+        left: 50px;
+        margin-top: 20px;
+        width: 58px;
+        height: 57px;
+    }
+    .PartnersTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 16px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 100px;
+        line-height: 27px;
+    }
+    .TeamsTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 16px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 150px;
+        line-height: 27px;
+    }
+    .quoteButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 300px;
+        border: 0;
+        width: 21vw;
+        height: 6vh;
+    }
+    .buttonHeading{
+        position: relative;
+        transform: translateY(0.5vh);
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-weight: 450;
+        font-size: 16px;
+    }
+    .ProsButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 300px;
+        border: 0;
+        width: 21vw;
+        height: 6vh;
+    }
+    .PartnerButton{
+        position: relative;
+        background-color:#4c95fc;
+        margin-bottom:-44px;
+        left: 220px;
+        border: 0;
+        width: 30vw;
+        height: 6vh;
+    }
+    .OpeningsButton{
+        position: relative;
+        background-color:#4c95fc;
+        margin-bottom:20px;
+        left: 200px;
+        border: 0;
+        width: 30vw;
+        height: 6vh;
+    }
+
+    #KanduaFoundersText{
+        position: relative;
+        left: 147px;
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 32px;
+    }
+    .founder{
+        margin-left: 208px;
+        width: 30vw;
+        margin-bottom: 30px;
+    }
+    #Arjun{
+        position: relative;
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 32px;
+        left: 140px  ;
+    }
+    #linkedinRef{
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        text-decoration: underline;
+    }
+    .blueStroke{
+        width: 100vw;
+        height: 2vh;
+    }
+    #KanduaPara{
+        position: relative;
+        margin-left: 50px;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+    }
+    .backText{
+        color: #4c95fc;
+        font:19.2px;
+        font-family: 'Poppins';
+        text-decoration: underline;
+    }
+    .Founders{
+        position: relative;
+        left: 70px;
+        width: 450px;
+        color: #000000;
+        margin-left: 20px;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        text-align: center;
+        word-spacing: -3px;
+    }
+    .GetinTouchButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 257px;
+        border: 0;
+        width: 21vw;
+        height: 6vh;
+    }
+    #KanduaPara{
+        position: relative;
+        margin-left: 210px;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 22.4px;
+    }
+    .backText{
+        position: relative;
+        left:5px;
+        color: #4c95fc;
+        font:22.4px;
+        font-family: 'Poppins';
+        text-decoration: underline;
+    }
+
+  } 
+  
+/* Desktop view -----------------------------------------------------------------------------------------------------------*/
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .kanduaLogo{position: relative;
+        top: 32px;
+        width: 3vw;
+        height:6vh;
+        margin-left: -230px;
+    }
+    .menuBar{
+        position: relative;
+        top: 32px;
+        left: 765px;
+        background-color: black;
+        width: 35px;
+        height: 2px;
+        margin:10px;
+    }
+    .firstH2{
+        margin-top: -10px;
+        font-family: 'Poppins';
+        font-size: 35px;
+        margin-left: 30px;
+    }
+    .firstPara{
+        margin-top: 5px;
+        font-family: 'Poppins';
+        font-size: 19px;
+        margin-left: 10px;
+    }
+    .SecondH2{
+        position: relative;
+        top:10px;
+        left: 10px;
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 33,6px;
+        text-align: center;
+    }
+    .SecondPara{
+        position: relative;
+        top:15px;
+        left: 10px;
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 33,6px;
+        text-align: center;
+    
+    }
+    .ThirdH2{
+        position: relative;
+        top:-10px;
+        left: 10px;
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 33,6px;
+        text-align: center;
+    }
+    .ThirdPara{
+        position: relative;
+        top:-10px;
+        left: 10px;
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 33,6px;
+        text-align: center;
+    }
+
+
+
+    #KanduaText{
+        position: relative;
+        left: -89px;
+        margin-top: 135px;;
+        width: 1200px;
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 48px;
+        line-height: 54px;
+        
+    }
+    #kandua{
+        text-decoration: underline;
+    }
+    .aboutText{
+        position: relative;
+        left: -89px;
+        width: 2000px;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 22.4px;
+        font-weight: 400;
+        margin: 20px 0px 0px;
+        line-height: 30px;
+        word-spacing: 10px; 
+       
+    }
+    .MainPara{
+        position: relative;
+        left: -5px;
+        top: 10px;
+        width: 1200px;
+    }
+    .blueBar{
+        position: relative;
+        right: 274px;
+        top: 80px;
+        background-color:#4c95fc;
+        width: 100vw;
+        height: 23vh;
+    }
+    .firstH2{
+        position: relative;
+        top: 8px;
+        left: 150px;
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 40px;
+        
+    }
+    .firstPara{
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-size: 33,6px;
+        text-align: center;
+    }
+    #customerH3{
+        color: #4c95fc;
+        font-family: 'Poppins';
+        font-size: 28.8px;
+        font-weight: 600;
+    }
+    .card{
+        border:0;
+    }
+    .CustomersSayImage{
+        margin-top: 20px;
+    }
+    .customersTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 5px;
+        line-height: 27px;
+    }
+    .Names{
+        font-weight: 350;
+        text-align: right;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+    }
+    p{
+        font-weight: 355;  
+    }
+    /* this is the "Get a quote" button  */
+    .quoteButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 100px;
+        border: 0;
+        width: 45vw;
+        height: 10vh;
+    
+    }
+    .buttonHeading{
+        position: relative;
+        transform: translateY(0.5vh);
+        color: #ffffff;
+        font-family: 'Poppins';
+        font-weight: 450;
+        font-size: 16px;
+    }
+    h6{
+        font-family: 'Poppins';
+        font-size: 19.2px;
+    }
+    .ProsSayImage{
+        margin-top: 20px;
+    }
+    .card-img{
+        border-radius: 0;
+    }
+    .ProsTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 5px;
+        line-height: 27px;
+    }
+    #Pronames{
+        text-decoration: underline;
+    }
+    .ProsButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 96px;
+        border: 0;
+        width: 47vw;
+        height: 10vh;
+    }
+    .PartnersTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 5px;
+        line-height: 27px;
+    }
+    .PartnerButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 43px;
+        border: 0;
+        width: 67vw;
+        height: 10vh;
+    }
+    .TeamsTestimonialPara{
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        padding: -20px;
+        line-height: 20px;
+        margin: 20px 0px 10px;
+        position: relative;
+        right: 5px;
+        line-height: 27px;
+    }
+    .OpeningsButton{
+        position: relative;
+        background-color:#4c95fc;
+        left: 50px;
+        border: 0;
+        width: 60vw;
+        height: 10vh;
+    }
+    #KanduaFoundersText{
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 28.8px;
+    }
+    .founder{
+        margin-left: 100px;
+        width: 40vw;
+    }
+    #Arjun{
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 28.8px;
+        margin-left: 47px  ;
+    }
+    #linkedinRef{
+        color:#4c95fc;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        text-decoration: underline;
+    }
+    .blueStroke{
+        width: 100vw;
+        height: 2vh;
+    }
+    #KanduaPara{
+        position: relative;
+        margin-left: 50px;
+        color: #000000;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+    }
+    .backText{
+        color: #4c95fc;
+        font:19.2px;
+        font-family: 'Poppins';
+        text-decoration: underline;
+    }
+    .Founders{
+        color: #000000;
+        margin-left: 20px;
+        font-family: 'Poppins';
+        font-size: 19.2px;
+        text-align: center;
+        word-spacing: -3px;
+    }
+    .GetinTouchButton{
+        position: relative;
+        background-color:#4c95fc;
+        right: -65px;
+        border: 0;
+        width: 52vw;
+        height: 10vh;
+    }
+
+
+
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    
+  }
