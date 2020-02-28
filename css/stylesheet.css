@@ -4,15 +4,18 @@ html{
     padding: 0px;
     margin:0px;
 }
+
 body{
     overflow: hidden;
     cursor: pointer;
 }
+
 .kanduaLogo{
     width: 7vw;
     height:5vh;
     margin-left: 5px;
 }
+
 .menuBar{
     position: relative;
     left: 125px;
@@ -21,9 +24,11 @@ body{
     height: 2px;
     margin:10px;
 }
+
 .SocialMedia{
     display: none;
 }
+
 .aboutLink{
     display: none;
 }
@@ -40,12 +45,14 @@ body{
     font-size: 35px;
     margin-left: 30px;
 }
+
 .firstPara{
     margin-top: 5px;
     font-family: 'Poppins';
     font-size: 19px;
     margin-left: 10px;
 }
+
 #KanduaText{
     color:#4c95fc;
     font-family: 'Poppins';
@@ -54,9 +61,11 @@ body{
     position: relative;
     right: -7px;
 }
+
 #kandua{
     text-decoration: underline;
 }
+
 .aboutText{
     color: #000000;
     font-family: 'Poppins';
@@ -78,6 +87,7 @@ body{
     font-size: 33,6px;
     text-align: center;
 }
+
 .firstPara{
     position: relative;
     top:35px;
@@ -87,6 +97,7 @@ body{
     font-size: 16px;
     text-align: center;
 }
+
 .SecondH2{
     position: relative;
     top:10px;
@@ -96,6 +107,7 @@ body{
     font-size: 33,6px;
     text-align: center;
 }
+
 .SecondPara{
     position: relative;
     top:15px;
@@ -104,8 +116,8 @@ body{
     font-family: 'Poppins';
     font-size: 33,6px;
     text-align: center;
-
 }
+
 .ThirdH2{
     position: relative;
     top:-10px;
@@ -115,6 +127,7 @@ body{
     font-size: 33,6px;
     text-align: center;
 }
+
 .ThirdPara{
     position: relative;
     top:-10px;
@@ -124,18 +137,22 @@ body{
     font-size: 33,6px;
     text-align: center;
 }
+
 #customerH3{
     color: #4c95fc;
     font-family: 'Poppins';
     font-size: 28.8px;
     font-weight: 600;
 }
+
 .card{
     border:0;
 }
+
 .CustomersSayImage{
     margin-top: 20px;
 }
+
 .customersTestimonialPara{
     color: #000000;
     font-family: 'Poppins';
@@ -147,6 +164,7 @@ body{
     right: 5px;
     line-height: 27px;
 }
+
 .Names{
     font-weight: 350;
     text-align: right;
@@ -154,9 +172,11 @@ body{
     font-family: 'Poppins';
     font-size: 19.2px;
 }
+
 p{
     font-weight: 355;  
 }
+
 /* this is the "Get a quote" button  */
 .quoteButton{
     position: relative;
@@ -175,16 +195,19 @@ p{
     font-weight: 450;
     font-size: 16px;
 }
+
 h6{
     font-family: 'Poppins';
     font-size: 19.2px;
 }
+
 .ProsSayImage{
     margin-top: 20px;
 }
 .card-img{
     border-radius: 0;
 }
+
 .ProsTestimonialPara{
     color: #000000;
     font-family: 'Poppins';
@@ -199,6 +222,7 @@ h6{
 #Pronames{
     text-decoration: underline;
 }
+
 .ProsButton{
     position: relative;
     background-color:#4c95fc;
@@ -207,6 +231,7 @@ h6{
     width: 47vw;
     height: 10vh;
 }
+
 .PartnersTestimonialPara{
     color: #000000;
     font-family: 'Poppins';
@@ -218,6 +243,7 @@ h6{
     right: 5px;
     line-height: 27px;
 }
+
 .PartnerButton{
     position: relative;
     background-color:#4c95fc;
@@ -226,6 +252,7 @@ h6{
     width: 67vw;
     height: 10vh;
 }
+
 .TeamsTestimonialPara{
     color: #000000;
     font-family: 'Poppins';
@@ -237,6 +264,7 @@ h6{
     right: 5px;
     line-height: 27px;
 }
+
 .OpeningsButton{
     position: relative;
     background-color:#4c95fc;
@@ -245,31 +273,37 @@ h6{
     width: 60vw;
     height: 10vh;
 }
+
 #KanduaFoundersText{
     color:#4c95fc;
     font-family: 'Poppins';
     font-size: 28.8px;
 }
+
 .founder{
     margin-left: 100px;
     width: 40vw;
 }
+
 #Arjun{
     color:#4c95fc;
     font-family: 'Poppins';
     font-size: 28.8px;
     margin-left: 47px  ;
 }
+
 #linkedinRef{
     color:#4c95fc;
     font-family: 'Poppins';
     font-size: 19.2px;
     text-decoration: underline;
 }
+
 .blueStroke{
     width: 100vw;
     height: 2vh;
 }
+
 #KanduaPara{
     position: relative;
     margin-left: 50px;
@@ -277,12 +311,14 @@ h6{
     font-family: 'Poppins';
     font-size: 19.2px;
 }
+
 .backText{
     color: #4c95fc;
     font:19.2px;
     font-family: 'Poppins';
     text-decoration: underline;
 }
+
 .Founders{
     color: #000000;
     margin-left: 20px;
@@ -291,6 +327,7 @@ h6{
     text-align: center;
     word-spacing: -3px;
 }
+
 .GetinTouchButton{
     position: relative;
     background-color:#4c95fc;
@@ -301,7 +338,7 @@ h6{
 }
 
 
-/* Media Queries: */
+/* Media Queries Section-------------------------: */
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -324,9 +361,11 @@ h6{
         height: 2px;
         margin:10px;
     }
+
     .SocialMedia{
         display:none;
     }
+
     .blueBar{
         position: relative;
         right: 25px;
@@ -334,6 +373,7 @@ h6{
         width: 100vw;
         height: 24vh;
     }
+
     #KanduaText{
         position: relative;
         left: 55px;
@@ -343,6 +383,7 @@ h6{
         line-height: 1.288;
         width: 450px;
     }
+
     .aboutText{
         position: relative;
         left: 55px;
@@ -355,12 +396,14 @@ h6{
         line-height: 30px;
         word-spacing: 10px;
     }
+
     .MainPara{
         position: relative;
         width: 450px;
         font-size: 22.4px;
         /* font-weight: 400;  */
     }
+
     .firstH2{
         position: relative;
         top: 3vh;
@@ -370,6 +413,7 @@ h6{
        
         display: inline;
     }
+    
     .firstPara{
         position: relative;
         top:4vh;
@@ -377,6 +421,7 @@ h6{
         font-family: 'Poppins';
         font-size: 19px;
     }
+
     .SecondH2{
         position: relative;
         top:3vh;
@@ -386,6 +431,7 @@ h6{
         font-size: 40px;
         text-align: center;
     }
+
     .SecondPara{
         position: relative;
         top:3vh;
@@ -395,6 +441,7 @@ h6{
         font-size: 19px;
         text-align: center;
     }
+
     .ThirdH2{
         position: relative;
         top:3vh;
@@ -404,6 +451,7 @@ h6{
         font-size: 40px;
         text-align: center;
     }
+
     .ThirdPara{
         position: relative;
         top: 3vh;
@@ -413,6 +461,7 @@ h6{
         font-size: 19px;
         text-align: center;
     }
+
     #customerH3{
         position: relative;
         margin-top: 52px;
@@ -422,9 +471,11 @@ h6{
         font-size: 32px;
         font-weight: 600;
     }
+
     .testimonials{
         display: inline;
     }
+
     .CustomersSayImage{
         position: relative;
         left: 50px;
@@ -432,6 +483,7 @@ h6{
         width: 55px;
         height: 55px;
     }
+
     .customersTestimonialPara{
         color: #000000;
         font-family: 'Poppins';
@@ -443,6 +495,7 @@ h6{
         right: 100px;
         line-height: 27px;
     }
+
     .Names{
         position: relative;
         right: 100px;
@@ -453,6 +506,7 @@ h6{
         font-size: 16px;
         margin-top:-15px;
     }
+
     .ProsSayImage{
         position: relative;
         left: 50px;
@@ -460,6 +514,7 @@ h6{
         width: 55px;
         height: 55px;
     }
+
     .ProsTestimonialPara{
         color: #000000;
         font-family: 'Poppins';
@@ -471,6 +526,7 @@ h6{
         right: 100px;
         line-height: 27px;
     }
+
     .PartnersLogo{
         position: relative;
         left: 50px;
@@ -478,6 +534,7 @@ h6{
         width: 58px;
         height: 57px;
     }
+
     .PartnersTestimonialPara{
         color: #000000;
         font-family: 'Poppins';
@@ -487,9 +544,12 @@ h6{
         margin: 20px 0px 10px;
         position: relative;
         right: 100px;
+      
         line-height: 27px;
     }
-    .TeamsTestimonialPara{
+
+    .T
+    eamsTestimonialPara{
         color: #000000;
         font-family: 'Poppins';
         font-size: 16px;
@@ -500,6 +560,7 @@ h6{
         right: 150px;
         line-height: 27px;
     }
+
     .quoteButton{
         position: relative;
         background-color:#4c95fc;
@@ -508,6 +569,7 @@ h6{
         width: 21vw;
         height: 6vh;
     }
+
     .buttonHeading{
         position: relative;
         transform: translateY(0.5vh);
@@ -516,6 +578,7 @@ h6{
         font-weight: 450;
         font-size: 16px;
     }
+
     .ProsButton{
         position: relative;
         background-color:#4c95fc;
@@ -524,6 +587,7 @@ h6{
         width: 21vw;
         height: 6vh;
     }
+
     .PartnerButton{
         position: relative;
         background-color:#4c95fc;
@@ -533,6 +597,7 @@ h6{
         width: 30vw;
         height: 6vh;
     }
+
     .OpeningsButton{
         position: relative;
         background-color:#4c95fc;
@@ -542,6 +607,7 @@ h6{
         width: 30vw;
         height: 6vh;
     }
+
     #KanduaFoundersText{
         position: relative;
         left: 147px;
@@ -549,6 +615,7 @@ h6{
         font-family: 'Poppins';
         font-size: 32px;
     }
+
     .founder{
         margin-left: 208px;
         width: 30vw;
@@ -634,13 +701,14 @@ h6{
     }
     .aboutLink{
         position: relative;
-        top: 4.5vh;
-        left: 1.5vw;
+        top: -1vh;
+        left: -9vw;
         color:#000000;
         text-decoration: underline;
         font-family: 'Poppins';
         font-size: 19px;
         font-weight: 250;
+        display: block;
     }
     .menuBar{
         position: relative;
@@ -1330,6 +1398,7 @@ h6{
         text-align: center;
         word-spacing: -3px;
     }
+    
     .GetinTouchButton{
         position: relative;
         background-color:#4c95fc;
@@ -1338,6 +1407,5 @@ h6{
         width: 52vw;
         height: 10vh;
     }
-
     
   }
